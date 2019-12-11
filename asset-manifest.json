@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactcindyflowers/static/css/main.a2804261.chunk.css",
+    "main.js": "/reactcindyflowers/static/js/main.304ae400.chunk.js",
+    "main.js.map": "/reactcindyflowers/static/js/main.304ae400.chunk.js.map",
+    "runtime-main.js": "/reactcindyflowers/static/js/runtime-main.b3823b5e.js",
+    "runtime-main.js.map": "/reactcindyflowers/static/js/runtime-main.b3823b5e.js.map",
+    "static/css/2.0969e736.chunk.css": "/reactcindyflowers/static/css/2.0969e736.chunk.css",
+    "static/js/2.c95304f9.chunk.js": "/reactcindyflowers/static/js/2.c95304f9.chunk.js",
+    "static/js/2.c95304f9.chunk.js.map": "/reactcindyflowers/static/js/2.c95304f9.chunk.js.map",
+    "index.html": "/reactcindyflowers/index.html",
+    "precache-manifest.1a8e0eb1ef915e3adf92a7a17b0a0bce.js": "/reactcindyflowers/precache-manifest.1a8e0eb1ef915e3adf92a7a17b0a0bce.js",
+    "service-worker.js": "/reactcindyflowers/service-worker.js",
+    "static/css/2.0969e736.chunk.css.map": "/reactcindyflowers/static/css/2.0969e736.chunk.css.map",
+    "static/css/main.a2804261.chunk.css.map": "/reactcindyflowers/static/css/main.a2804261.chunk.css.map",
+    "static/js/2.c95304f9.chunk.js.LICENSE": "/reactcindyflowers/static/js/2.c95304f9.chunk.js.LICENSE",
+    "static/media/me.JPG": "/reactcindyflowers/static/media/me.a0c4340c.JPG",
+    "static/media/style.css": "/reactcindyflowers/static/media/robotothinitalic.d1c3b38f.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3823b5e.js",
+    "static/css/2.0969e736.chunk.css",
+    "static/js/2.c95304f9.chunk.js",
+    "static/css/main.a2804261.chunk.css",
+    "static/js/main.304ae400.chunk.js"
+  ]
+}

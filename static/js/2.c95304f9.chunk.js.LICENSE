@@ -1,0 +1,184 @@
+/*!
+ * pts.js 0.8.11 - Copyright © 2017-2019 William Ngan and contributors.
+ * Licensed under Apache 2.0 License.
+ * See https://github.com/williamngan/pts for details.
+ */
+
+/*!***********************!*\
+        !*** ./src/Canvas.ts ***!
+        \***********************/
+
+/*! no static exports found */
+
+/*! Source code licensed under Apache License 2.0. Copyright © 2017-current William Ngan and contributors. (https://github.com/williamngan/pts) */
+
+/*! ./Space */
+
+/*! ./Form */
+
+/*! ./Pt */
+
+/*! ./Util */
+
+/*! ./Typography */
+
+/*! ./Op */
+
+/*!**********************!*\
+        !*** ./src/Color.ts ***!
+        \**********************/
+
+/*! ./Num */
+
+/*!***********************!*\
+        !*** ./src/Create.ts ***!
+        \***********************/
+
+/*! ./LinearAlgebra */
+
+/*!********************!*\
+        !*** ./src/Dom.ts ***!
+        \********************/
+
+/*!*********************!*\
+        !*** ./src/Form.ts ***!
+        \*********************/
+
+/*!******************************!*\
+        !*** ./src/LinearAlgebra.ts ***!
+        \******************************/
+
+/*!********************!*\
+        !*** ./src/Num.ts ***!
+        \********************/
+
+/*!*******************!*\
+        !*** ./src/Op.ts ***!
+        \*******************/
+
+/*!************************!*\
+        !*** ./src/Physics.ts ***!
+        \************************/
+
+/*!*********************!*\
+        !*** ./src/Play.ts ***!
+        \*********************/
+
+/*!*******************!*\
+        !*** ./src/Pt.ts ***!
+        \*******************/
+
+/*!**********************!*\
+        !*** ./src/Space.ts ***!
+        \**********************/
+
+/*! ./UI */
+
+/*!********************!*\
+        !*** ./src/Svg.ts ***!
+        \********************/
+
+/*! ./Dom */
+
+/*!***************************!*\
+        !*** ./src/Typography.ts ***!
+        \***************************/
+
+/*!*******************!*\
+        !*** ./src/UI.ts ***!
+        \*******************/
+
+/*!*********************!*\
+        !*** ./src/Util.ts ***!
+        \*********************/
+
+/*!************************!*\
+        !*** ./src/_module.ts ***!
+        \************************/
+
+/*! ./Canvas */
+
+/*! ./Create */
+
+/*! ./Color */
+
+/*! ./Svg */
+
+/*! ./Physics */
+
+/*! ./Play */
+
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+/**!
+ * @fileOverview Kickass library to create and place poppers near their reference elements.
+ * @version 1.16.0
+ * @license
+ * Copyright (c) 2016 Federico Zivolo and contributors
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in all
+ * copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ * SOFTWARE.
+ */
+
+/** @license React v16.12.0
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v16.12.0
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v0.18.0
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v16.12.0
+ * react-is.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * A better abstraction over CSS.
+ *
+ * @copyright Oleg Isonen (Slobodskoi) / Isonen 2014-present
+ * @website https://github.com/cssinjs/jss
+ * @license MIT
+ */
