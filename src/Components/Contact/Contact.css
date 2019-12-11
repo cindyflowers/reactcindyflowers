@@ -1,0 +1,11 @@
+.contact {
+    background-color: #252934;
+    color: rgb(220, 220, 220);
+    padding: 0px 0 50px 0;  
+}
+
+.contact-form {
+    background-color: white;
+    width: calc(50vw);
+
+}

@@ -1,26 +1,28 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
+import {Box, Container} from '@material-ui/core'
+import 'roboto-npm-webfont';
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+import {HeaderSpaceBalls} from './Components/Header/HeaderSpaceBalls'
+import {Header} from './Components/Header/Header'
+import {About}  from './Components/About/About'
+import {Recommendations}  from './Components/Recommendations/Recommendations'
+import {Contact}  from './Components/Contact/Contact'
+import {Footer}  from './Components/Footer/Footer'
 
-export default App;
+
+export default class App extends Component {
+  render() {
+    return (
+          <div className="App">
+            <HeaderSpaceBalls background="#252934"></HeaderSpaceBalls>
+            <Header introduction="Hello, I'm " name="Cindy Flowers." nameColor="hotpink" description="I'm a full-stack ASP.NET Developer."></Header>
+            <About></About>
+            <Recommendations></Recommendations>
+            <Contact></Contact>
+            <Footer></Footer>
+          </div>
+
+    );
+  }
+}

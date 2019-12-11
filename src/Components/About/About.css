@@ -1,0 +1,30 @@
+/* .about {
+    text-align: center;
+    display: inline-block;
+  }
+  
+  .about-text {
+    margin-bottom: 0;
+  } */
+
+.about-me {
+    height: calc(18vw);
+    max-height: 400px;
+    min-height: 200px;
+    border-radius: 50%;
+}
+
+.underline {
+    text-decoration-line: underline;
+}
+
+
+.label {
+    font-size: 14pt;
+    font-weight: 500; 
+}
+
+@media screen and (min-width: 600px) {
+    .header {
+      font-size: 30pt; }
+}

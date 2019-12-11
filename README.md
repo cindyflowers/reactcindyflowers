@@ -1,3 +1,6 @@
+## About this project
+My portfolio using React and Material-UI and bouncing ball annimations using PTS (https://ptsjs.org/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
